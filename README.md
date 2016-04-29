@@ -1,8 +1,8 @@
-# Title
+# D3 Squiggly Line
 
-Description
+WIP
 
-## Usage
+<!-- ## Usage
 
 Usage
 
@@ -15,7 +15,7 @@ View the live demo [here.](http://callmenick.com/_development/...)
 Clone and run `npm install`. After that, there are two main tasks available:
 
 * `gulp` - the main task which lints scripts and compiles SCSS to CSS
-* `gulp serve` - launches a local browser sync server for development
+* `gulp serve` - launches a local browser sync server for development -->
 
 ## Author
 
